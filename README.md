@@ -1,4 +1,4 @@
-# open-science-community-network
+# open-science-community-nigeria
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
