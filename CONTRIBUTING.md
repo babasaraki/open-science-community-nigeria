@@ -2,7 +2,7 @@
 # Contributing Guidelines:
 
 We welcome all contributions to the Open Science Community Nigeria (OSCN). The contribution can be a [issue report](https://github.com/babasaraki/open-science-community-nigeria/issues) 
-or a [pull request](https://github.com/babasaraki/open-science-community-nigeria/pulls).
+or a [pull request](https://github.com/babasaraki/open-science-community-nigeria/pulls)
 
 ## Contribution workflow:
 
