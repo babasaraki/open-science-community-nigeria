@@ -14,19 +14,18 @@ Inspired by the Open Science (OS) movement that focuses on making science more o
 There are quite a number of some initiatives in Nigeria such as AI Hub, Nigeria, Python Nigeria and R User groups that mainly promote data science and computational sciences. However, none there exist a single community that instilled responsible conduct of research, promote the principles of open science and or establish a guiding principles and core values or policies that support scientists, researchers, and societal stakeholders to meet, inspire and co-create important things together as a community.
 
 
-
-
 ## Contributing :gift_heart:
 
-We welcome all contributions to improve this project. We also added more details to our [Contribution Guide](CONTRIBUTING.md).
+- We welcome all contributions to improve this project. 
+- If you would like to contribute to improve this project, feel free to open an issue :heart_decoration:
+- To add your contribution, please follow our [Contribution Guide](CONTRIBUTING.md).
+
 
 ## Maintainer(s)
 
 Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way. Current maintainer of this project is:
 
 * [Umar Ahmad](https://github.com/babasaraki)
-
-## Citation
 
 
 ## License
