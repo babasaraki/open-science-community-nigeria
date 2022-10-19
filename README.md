@@ -18,7 +18,7 @@ There are quite a number of some initiatives in Nigeria such as AI Hub, Nigeria,
 
 - We welcome all contributions to improve this project. 
 - If you would like to contribute to improve this project, feel free to open an issue :heart_decoration:
-- To add your contribution, please follow our [Contribution Guide](CONTRIBUTING.md).
+- To add your contribution, please follow our [Contribution Guide](https://github.com/babasaraki/open-science-community-nigeria/blob/main/CONTRIBUTING.md).
 
 
 ## Maintainer(s)
