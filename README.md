@@ -5,11 +5,13 @@
 
 # Project
 
+## Background 
+
 Inspired by the Open Science (OS) movement that focuses on making science more open, improves the quality, accessibility, and efficiency of science and education, Open Science Community Nigeria (OSCN) was established to provide a space that will encourage and promote openness, transparency and reproducibility in science among scientists, network of researchers and societal stakeholders in Nigeria. We aim to establish and develop an open science community in Nigeria where newcomers and experienced peers interact, inspire each other to adopt Open Science practices and values, identify opportunities and pitfalls, and provide feedback on policies, infrastructure, and support services as does in other regions of the World. 
 
 > We aim to specifically target scientists, researchers and students who are passionate about open science but have little to no experience with open science principles and practices.
 
-# Problem
+## Problem
 
 There are quite a number of some initiatives in Nigeria such as AI Hub, Nigeria, Python Nigeria and R User groups that mainly promote data science and computational sciences. However, none there exist a single community that instilled responsible conduct of research, promote the principles of open science and or establish a guiding principles and core values or policies that support scientists, researchers, and societal stakeholders to meet, inspire and co-create important things together as a community.
 
