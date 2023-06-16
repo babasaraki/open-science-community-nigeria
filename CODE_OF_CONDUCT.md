@@ -28,7 +28,7 @@ Critical examination of beliefs and view points does not, by itself, constitute 
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to (one of) the Coordinator(s) of the OSC organizing the event [Umar Ahmad](babasaraki@yahoo.co.uk) or [Khatijat Abubakar Bobbo](khadijantii@gmail.com), either in person or electronically (with the option to remain anonymous). If the person you should report to is the target of the complaint, you may contact the event organizers and/or the confidential advisor(s) of their employer. The target of the complaint will not be involved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to (one of) the Coordinator(s) of the OSC organizing the event [Umar Ahmad](mailto:babasaraki@yahoo.co.uk) or [Khatijat Abubakar Bobbo](mailto:khadijantii@gmail.com), either in person or electronically (with the option to remain anonymous). If the person you should report to is the target of the complaint, you may contact the event organizers and/or the confidential advisor(s) of their employer. The target of the complaint will not be involved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
 
 ### Enforcement
 
